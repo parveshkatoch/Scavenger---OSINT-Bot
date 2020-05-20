@@ -11,7 +11,7 @@ enum34==1.1.6
 future==0.17.1
 gyp==0.1
 html5lib==1.0.1
-httplib2==0.9.1
+httplib2==0.18.0
 idna==2.8
 ipaddress==1.0.22
 kiwisolver==1.0.1
